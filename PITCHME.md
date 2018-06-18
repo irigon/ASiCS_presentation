@@ -59,9 +59,9 @@
 
 ---
 
-![Stochastic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif =190x354)
-![Probabilistic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif =190x354)
-![Deterministic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif =190x354)
+    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
+    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
+  <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
 ---
 
 ### Choosing the right routing algorithm
