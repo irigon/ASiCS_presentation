@@ -67,6 +67,24 @@
 
 ---
 
+<div id="image-table">
+<table>
+<tr>
+<td style="padding:5px">
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
+</td>
+<td style="padding:5px">
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
+</td>
+<td style="padding:5px">
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ### Choosing the right routing algorithm
 
 - Epidemic
