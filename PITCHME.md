@@ -44,15 +44,15 @@
 ### Simplified contexts
 <ul class="list-unstyled list-inline text-center">
   <li>
-    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="380" height="708">
+    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
     <figcaption>Stochastic</figcaption>
   </li>
   <li>
-    <img src="figures/Probabilistic.gif" alt= "Probabilistic" width="380" height="708">
+    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
     <figcaption>Probabilistic</figcaption>
   </li>
   <li>
-  <img src="figures/Deterministic.gif" alt= "Deterministic" width="380" height="708">
+  <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
   <figcaption>Deterministic</figcaption>
   </li>
 </ul>
