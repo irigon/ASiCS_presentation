@@ -59,6 +59,11 @@
 
 ---
 
+![Stochastic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif)
+![Probabilistic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif)
+![Deterministic](https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif)
+---
+
 ### Choosing the right routing algorithm
 
 - Epidemic
