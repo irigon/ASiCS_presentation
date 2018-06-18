@@ -44,7 +44,7 @@
 ### Simplified contexts
 <ul class="list-unstyled list-inline text-center">
   <li>
-    <img src="figures/Stochastic.gif" alt= "Stochastic" width="380" height="708">
+    <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="380" height="708">
     <figcaption>Stochastic</figcaption>
   </li>
   <li>
