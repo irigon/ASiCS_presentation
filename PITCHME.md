@@ -1,12 +1,13 @@
 <style type='text/css'>
-  .paragraph1 {
+  paragraph1 {
     font-size: 18px;
   }
-  .paragraph2 {
+  paragraph2 {
     font-size: 13px;
   }
-  .paragraph3 {
+  paragraph3 {
     font-size: 10px;
+  }
 </style>
 
 ## Adaptive routing for DTN
