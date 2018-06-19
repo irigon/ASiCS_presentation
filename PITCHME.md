@@ -11,6 +11,11 @@ figcaption {
   .paragraph3 {
     font-size: 10px;
   }
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
 </style>
 
 ## Adaptive routing for DTN
@@ -19,11 +24,7 @@ figcaption {
 
 ---
 
-### Connection based Internet limitations
-
----
-
-### DTN - Store and Forward
+### Store & Forward x Connection oriented 
 
 <video width="640" height="480" controls>
   <source src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/videos/dtn.mp4" type="video/mp4">
@@ -76,14 +77,13 @@ Your browser does not support the video tag.
 
 ---
 
-### Comparison
+### How should routing look like?
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Scenario-simple.png" alt= "simple" width="281" height="323">
 </figure>
 
 ---
-
 
 <div id="image-table">
 <table>
@@ -107,13 +107,44 @@ Your browser does not support the video tag.
 
 ---
 
-### Choosing the right routing algorithm
+### The "right" routing algorithm
 
 - Epidemic
 - Probabilistic
 - Deterministic (CGR)
 - Hybrid
 
+---
+<table class="tg">
+<tr>
+<th class="tg-yw4l"></th>
+<th class="tg-yw4l">Epidemic</th>
+<th class="tg-yw4l">Prophet</th>
+<th class="tg-yw4l">CGR</th>
+<th class="tg-yw4l">RBAR</th>
+</tr>
+<tr>
+<td class="tg-yw4l">Stochastic</td>
+<td class="tg-baqh">:D</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:D</td>
+</tr>
+<tr>
+<td class="tg-yw4l">Probabilistic</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:)</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:)</td>
+</tr>
+<tr>
+<td class="tg-yw4l">Deterministic</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:(</td>
+<td class="tg-baqh">:D</td>
+<td class="tg-baqh">:D</td>
+</tr>
+</table>
 ---
 
 ### Epidemic
