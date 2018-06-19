@@ -5,13 +5,6 @@
 
 ---
 
-### Somewhere on earth
-
-- Foto of the cel transactions
-- argue that this technology helped them, how much would help really access to internet?
-
----
-
 ### Connection based Internet limitations
 
 ---
@@ -37,6 +30,10 @@ Your browser does not support the video tag.
 ---
 
 ### Stochastic City
+
+<figure>
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
+</figure>
 
 ---
 
