@@ -90,7 +90,7 @@ Your browser does not support the video tag.
 <tr>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-<figcaption>Random</figcaption>
+<figcaption style="font-size: small">Random</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
