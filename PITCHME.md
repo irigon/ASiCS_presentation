@@ -65,7 +65,7 @@ Your browser does not support the video tag.
 ### Deterministic 
 
 <figure>
-<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/simple-scenario.gif" alt= "simple" width="281" height="323">
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Scenario-simple.gif" alt= "simple" width="281" height="323">
 </figure>
 
 ---
