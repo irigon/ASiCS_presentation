@@ -1,3 +1,4 @@
+
 # Adaptive routing for DTN
 
 ---
@@ -47,12 +48,12 @@
 <td style="padding:15px">
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-<figcaption>Stochastic</figcaption>
+<figcaption font-size:1em>Stochastic</figcaption>
 </figure>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
-<figcaption>Probabilistic</figcaption>
+<figcaption font-size:1em>Probabilistic</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
