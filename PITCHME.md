@@ -1,3 +1,14 @@
+<style>
+  p {
+      color: red;
+  }
+  .paragraph1 {
+    font-size: 18px;
+  }
+  .paragraph2 {
+    font-size: 13px;
+  }
+</style>
 
 ## Adaptive routing for DTN
 
@@ -76,11 +87,12 @@ Your browser does not support the video tag.
 <tr>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-#### Random
+<p class="paragraph1">Random</p>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
-#### Probabilistic
+
+<p class="paragraph2">Probabilistic</p>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
