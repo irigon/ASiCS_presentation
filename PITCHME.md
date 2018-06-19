@@ -45,7 +45,10 @@
 <table>
 <tr>
 <td style="padding:5px">
+<figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
+<figcaption>Stochastic</figcaption>
+</figure>
 </td>
 <td style="padding:5px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
