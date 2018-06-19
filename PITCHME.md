@@ -135,7 +135,7 @@ Your browser does not support the video tag.
 <td class="tg-baqh">&#9633;</td>
 <td class="tg-baqh">&#8862;</td>
 <td class="tg-baqh">&#9633;</td>
-<td class="tg-baqh">:)</td>
+<td class="tg-baqh">&#8862;</td>
 </tr>
 <tr>
 <td class="tg-yw4l">Deterministic</td>
