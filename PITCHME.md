@@ -107,15 +107,6 @@ Your browser does not support the video tag.
 
 ---
 
-### The "right" routing algorithm
-
-- Epidemic
-- Probabilistic
-- Deterministic (CGR)
-- Hybrid
-
----
-
 Routing algorithm performance
 
 <table class="tg">
