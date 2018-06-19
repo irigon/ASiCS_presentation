@@ -1,5 +1,16 @@
 
 ## Adaptive routing for DTN
+=======
+
+### 19.06.2018 - José Irigon
+
+---
+
+### Somewhere on earth
+
+- Foto of the cel transactions
+- argue that this technology helped them, how much would help really access to internet?
+>>>>>>> 5b84f2526f8a653c98e79acec7a829c20ab957f3
 
 ---
 
@@ -99,5 +110,3 @@ Your browser does not support the video tag.
 
 ---
 
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
