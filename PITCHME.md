@@ -29,27 +29,36 @@ Your browser does not support the video tag.
 
 ---
 
-### Stochastic City
+### Context in DTN
+
+- Stochastic
+- Probabilistic
+- Deterministic
+
+---
+
+### Stochastic - 3 room party
 
 <figure>
-<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/3-shows.gif" alt= "3 room party" width="464" height="403">
 </figure>
 
 ---
 
 ### Probabilistic City
 
+<figure>
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/shortestpath.gif" alt= "cars" width="624" height="415">
+</figure>
+
+
 ---
 
 ### Deterministic City
 
----
-
-### Context in DTN
-
-- Stochastic
-- Probabilistic
-- Deterministic
+<figure>
+<img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/worldMap-deterministicMove.gif" alt= "satelites" width="504" height="259">
+</figure>
 
 ---
 
