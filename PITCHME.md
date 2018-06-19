@@ -9,7 +9,6 @@
 
 - Foto of the cel transactions
 - argue that this technology helped them, how much would help really access to internet?
->>>>>>> 5b84f2526f8a653c98e79acec7a829c20ab957f3
 
 ---
 
