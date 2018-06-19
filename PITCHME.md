@@ -115,6 +115,9 @@ Your browser does not support the video tag.
 - Hybrid
 
 ---
+
+Routing algorithm performance
+
 <table class="tg">
 <tr>
 <th class="tg-yw4l"></th>
@@ -145,28 +148,7 @@ Your browser does not support the video tag.
 <td class="tg-baqh">&#9724;</td>
 </tr>
 </table>
-<p style="font-size: 16px">Performance results: &#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
+<p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
 ---
 
-### Epidemic
-
-- Foto of epidemic movement
-
----
-
-### CGR
-
----
-
-### Prophet
-
----
-
-### Every algo has a context in which it nails it.
-
----
-
-### What about context changes?
-
----
 
