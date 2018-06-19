@@ -90,16 +90,16 @@ Your browser does not support the video tag.
 <tr>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-<figcaption style="font-size: small">Random</figcaption>
+<figcaption style="font-size: small; text-align: center;">Random</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
 
-<figcaption>Probabilistic</figcaption>
+<figcaption style="font-size: medium; text-align: center;">Probabilistic</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
-<p class="paragraph3">Deterministic</p>
+<figcaption style="font-size: medium; text-align: center;">Deterministic</figcaption>
 </td>
 </tr>
 </table>
