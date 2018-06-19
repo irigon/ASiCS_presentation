@@ -126,14 +126,14 @@ Your browser does not support the video tag.
 <tr>
 <td class="tg-yw4l">Stochastic</td>
 <td class="tg-baqh">:D</td>
-<td class="tg-baqh">:(</td>
-<td class="tg-baqh">:(</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9633;</td>
 <td class="tg-baqh">:D</td>
 </tr>
 <tr>
 <td class="tg-yw4l">Probabilistic</td>
 <td class="tg-baqh">:(</td>
-<td class="tg-baqh">:)</td>
+<td class="tg-baqh">&#8862;</td>
 <td class="tg-baqh">:(</td>
 <td class="tg-baqh">:)</td>
 </tr>
