@@ -145,6 +145,7 @@ Your browser does not support the video tag.
 <td class="tg-baqh">&#9632;</td>
 </tr>
 </table>
+<p>Performance results: &#9632: Good, &#8862: Average, &#9633: Bad </p>
 ---
 
 ### Epidemic
