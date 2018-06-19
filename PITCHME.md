@@ -1,4 +1,7 @@
 <style type='text/css'>
+caption {
+  font-size: 50%;
+}
   .paragraph1 {
     font-size: 18px;
   }
