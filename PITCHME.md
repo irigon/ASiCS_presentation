@@ -37,7 +37,7 @@ Your browser does not support the video tag.
 
 ---
 
-### Stochastic - 3 room party
+### Stochastic 
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/3-shows.gif" alt= "3 room party" width="464" height="403">
@@ -45,7 +45,7 @@ Your browser does not support the video tag.
 
 ---
 
-### Probabilistic City
+### Probabilistic 
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/shortestpath.gif" alt= "cars" width="624" height="415">
@@ -54,7 +54,7 @@ Your browser does not support the video tag.
 
 ---
 
-### Deterministic City
+### Deterministic 
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/worldMap-deterministicMove.gif" alt= "satelites" width="504" height="259">
