@@ -145,7 +145,7 @@ Your browser does not support the video tag.
 <td class="tg-baqh">&#9632;</td>
 </tr>
 </table>
-<p style="font-size: 16px">Performance results: <span style="font-size: inherit">&#9632;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
+<p style="font-size: 16px">Performance results: <span style="font-size: 20px">&#9632;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
 ---
 
 ### Epidemic
