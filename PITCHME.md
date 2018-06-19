@@ -1,5 +1,5 @@
 <style type='text/css'>
-caption {
+figcaption {
   font-size: 50%;
 }
   .paragraph1 {
@@ -90,12 +90,12 @@ Your browser does not support the video tag.
 <tr>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-<p class="paragraph1">Random</p>
+<figcaption>Random</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
 
-<caption>Probabilistic</caption>
+<figcaption>Probabilistic</figcaption>
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
