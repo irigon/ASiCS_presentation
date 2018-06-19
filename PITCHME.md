@@ -62,7 +62,7 @@ Your browser does not support the video tag.
 
 ---
 
-### Deterministic 
+### Comparison
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Scenario-simple.png" alt= "simple" width="281" height="323">
@@ -75,15 +75,16 @@ Your browser does not support the video tag.
 <table>
 <tr>
 <td style="padding:15px">
-<figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Stochastic.gif" alt= "Stochastic" width="190" height="354">
-</figure>
+#### Random
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Probabilistic.gif" alt= "Probabilistic" width="190" height="354">
+#### Probabilistic
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
+#### Deterministic
 </td>
 </tr>
 </table>
