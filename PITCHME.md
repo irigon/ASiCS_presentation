@@ -1,12 +1,5 @@
 
-# Adaptive routing for DTN
-
----
-
-### Somewhere on earth
-
-- Foto of the cel transactions
-- argue that this technology helped them, how much would help really access to internet?
+## Adaptive routing for DTN
 
 ---
 
@@ -25,6 +18,25 @@ Your browser does not support the video tag.
 
 ### DTN - Use Cases examples
 
+- Wild life (ZebraNet - Kenia)
+- Disaster response and Humanitarian Aid
+- DakNet (Terrestrial cost effective connectivity)
+- Vehicular DTN
+- Unmanned Air/Underwater Systems
+- Ring Road (Satellite cost effective connectivity)
+
+---
+
+### Stochastic City
+
+---
+
+### Probabilistic City
+
+---
+
+### Deterministic City
+
 ---
 
 ### Context in DTN
@@ -35,17 +47,6 @@ Your browser does not support the video tag.
 
 ---
 
-### Stochastic example
-
----
-
-### Probabilistic example
-
----
-
-### Deterministic example
-
----
 
 <div id="image-table">
 <table>
