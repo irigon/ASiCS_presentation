@@ -125,10 +125,10 @@ Your browser does not support the video tag.
 </tr>
 <tr>
 <td class="tg-yw4l">Stochastic</td>
-<td class="tg-baqh">&#9632;</td>
+<td class="tg-baqh">&#9724;</td>
 <td class="tg-baqh">&#9633;</td>
 <td class="tg-baqh">&#9633;</td>
-<td class="tg-baqh">&#9632;</td>
+<td class="tg-baqh">&#9724;</td>
 </tr>
 <tr>
 <td class="tg-yw4l">Probabilistic</td>
@@ -141,11 +141,11 @@ Your browser does not support the video tag.
 <td class="tg-yw4l">Deterministic</td>
 <td class="tg-baqh">&#9633;</td>
 <td class="tg-baqh">&#9633;</td>
-<td class="tg-baqh">&#9632;</td>
-<td class="tg-baqh">&#9632;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
 </tr>
 </table>
-<p style="font-size: 16px">Performance results: <span style="font-size: 20px">&#9632;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
+<p style="font-size: 16px">Performance results: &#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
 ---
 
 ### Epidemic
