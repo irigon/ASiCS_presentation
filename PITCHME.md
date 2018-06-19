@@ -18,7 +18,7 @@ figcaption {
 .tg .tg-yw4l{vertical-align:top}
 </style>
 
-## Adaptive routing for DTN
+## Towards DTN Adaptive routing
 
 ### 19.06.2018 - José Irigon
 
