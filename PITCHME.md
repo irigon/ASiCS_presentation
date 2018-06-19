@@ -1,13 +1,12 @@
 <style>
-  p {
-      color: red;
-  }
   .paragraph1 {
     font-size: 18px;
   }
   .paragraph2 {
     font-size: 13px;
   }
+  .paragraph3 {
+    font-size: 10px;
 </style>
 
 ## Adaptive routing for DTN
@@ -96,7 +95,7 @@ Your browser does not support the video tag.
 </td>
 <td style="padding:15px">
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Deterministic.gif" alt= "Deterministic" width="190" height="354">
-#### Deterministic
+<p class="paragraph3">Deterministic</p>
 </td>
 </tr>
 </table>
