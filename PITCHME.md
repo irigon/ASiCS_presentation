@@ -50,9 +50,9 @@ Your browser does not support the video tag.
 - Wild life [Juang2002]
 - Disaster response and Humanitarian Aid [Kannan2008]
 - DakNet, TrainNet [Pentland2004,Zarafshan-Araki2010]
-- Vehicular DTN [6]
-- Unmanned Air/Underwater Systems [7]
-- Ring Road [8]
+- Vehicular DTN [Sharef2014]
+- Unmanned Air/Underwater Systems [Johansen2014]
+- Ring Road [Burleigh2011]
 
 Note:
   - ZebraNet - Kenia
@@ -263,19 +263,13 @@ Still to be done
 <td>[Juang2002]</td><td>Juang, Philo and Oki, Hidekazu and Wang, Yong and Martonosi, Margaret and {Peh Li-Shiuan}, Peh and Rubenstein, Daniel, Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet, ASPLOS 2002</td>
 </tr>
 <tr>
-<td>[4]</td><td></td>
+<td>[Johansen2014]</td><td>Johansen, Tor A. and Zolich, Artur and Hansen, Torkel and Sorensen, Asgeir J., Unmanned aerial vehicle as communication relay for autonomous underwater vehicle — Field tests, IEEE Globecom Workshops, 2014</td>
 </tr>
 <tr>
-<td>[4]</td><td></td>
+<td>[Sharef2014]</td><td>Sharef, Baraa T. and Alsaqour, Raed A. and Ismail, Mahamod, Vehicular communication ad hoc routing protocols: A survey, Journal of Network and Computer Applications, 2014</td>
 </tr>
 <tr>
-<td>[4]</td><td></td>
+<td>[Burleigh2011]</td><td>Burleigh, Scott C and Birrane, Edward J., Toward a communications satellite network for humanitarian relief, ACWR '11, 2011</td>
 </tr>
 </table>
 
-- Wild life [2]
-- Disaster response and Humanitarian Aid [3]
-- DakNet, TrainNet [4,5]
-- Vehicular DTN [6]
-- Unmanned Air/Underwater Systems [7]
-- Ring Road [8]
