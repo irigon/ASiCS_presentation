@@ -25,7 +25,7 @@ li {
 
 ## Towards DTN Adaptive routing
 
-#### 19.06.2018 - José Irigon
+#### 26.06.2018 - José Irigon, Manuel Weißbach
 
 ---
 
