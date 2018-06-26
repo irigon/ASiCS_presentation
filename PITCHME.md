@@ -38,25 +38,35 @@ Your browser does not support the video tag.
 
 ---
 
-### Some dificulties in DTN adoption
+### DTN - Use Cases examples
+
+- Wild life 
+- Disaster response and Humanitarian Aid
+- DakNet, TrainNet 
+- Vehicular DTN
+- Unmanned Air/Underwater Systems
+- Ring Road 
+
+Note:
+  - ZebraNet - Kenia
+  - Terrestrial cost effective connectivity
+  - Ring Road: Satellite cost effective connectivity
+  - If 
+
+---
+
+### Challenges in DTN adoption
 
  - Routing is context bound
  - Use-case depends on context available resources
  - Different contexts &#8594; abstracts &#8594; same problem 
+ - Less done towards internetworking
+
 Note: 
 p2: reutilization might needs the same combination
 p3: deep space x ad-hoc mobile networks: latency, routing different -- disruption the same
-
----
-
-### DTN - Use Cases examples
-
-- Wild life (ZebraNet - Kenia)</paragraph1>
-- Disaster response and Humanitarian Aid
-- DakNet, TramNet (Terrestrial cost effective connectivity)
-- Vehicular DTN
-- Unmanned Air/Underwater Systems
-- Ring Road (Satellite cost effective connectivity)
+However, a group of scientists usually works on similar problems
+Next: In order to improve DTN adoption we urge to 
 
 ---
 
