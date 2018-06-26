@@ -18,7 +18,7 @@ figcaption {
 .tg .tg-yw4l{vertical-align:top}
 
 .reveal pre code {
-  font-size: 1.0em;
+  font-size: 0.8em;
   line-height: 1.0;
 }
 
