@@ -41,7 +41,7 @@ li {
 Your browser does not support the video tag.
 </video>
 
-<span style="font-size: 6">Credits: NASA</span>
+<span style="font-size: 6px; align: left">Credits: NASA</span>
 
 
 ---
