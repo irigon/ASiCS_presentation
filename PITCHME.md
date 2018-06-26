@@ -18,6 +18,7 @@ figcaption {
 .tg .tg-yw4l{vertical-align:top}
 */
 table {font-family:Arial, sans-serif; font-size:18px;}
+table td {padding:10px 5px;}
 li {
   font-size: 26px !important;
 }
