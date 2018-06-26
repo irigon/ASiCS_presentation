@@ -40,12 +40,14 @@ Your browser does not support the video tag.
 
 ### DTN - Use Cases examples
 
+@ul[squares]
 - Wild life 
 - Disaster response and Humanitarian Aid
 - DakNet, TrainNet 
 - Vehicular DTN
 - Unmanned Air/Underwater Systems
 - Ring Road 
+@ulend
 
 Note:
   - ZebraNet - Kenia
