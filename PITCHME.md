@@ -41,19 +41,18 @@ li {
 Your browser does not support the video tag.
 </video>
 
-<span style="font-size: 19px;">Credits: NASA</span>
-
+<span style="font-size: 19px;">[1] Credits: NASA</span>
 
 ---
 
 ### DTN - Use Cases examples
 
-- Wild life 
-- Disaster response and Humanitarian Aid
-- DakNet, TrainNet 
-- Vehicular DTN
-- Unmanned Air/Underwater Systems
-- Ring Road 
+- Wild life [Juang2002]
+- Disaster response and Humanitarian Aid [Kannan2008]
+- DakNet, TrainNet [Pentland2004,Zarafshan-Araki2010]
+- Vehicular DTN [6]
+- Unmanned Air/Underwater Systems [7]
+- Ring Road [8]
 
 Note:
   - ZebraNet - Kenia
@@ -65,12 +64,10 @@ Note:
 
 ### Challenges in DTN adoption
 
-@ul[squares]
  - Routing is context bound
  - Use-case depends on context available resources
  - Different contexts &#8594; abstracts &#8594; same problem 
  - Less done towards internetworking
-@ulend
 
 Note: 
 p2: reutilization might needs the same combination
@@ -251,20 +248,34 @@ Still to be done
 
 <table class="tg">
 <tr>
-<td>[1]</td>
-<td>[NASA Video]. (2017, May 16). Delay / Disruption Tolerant Networking [Video File]. Retrieved from https://youtu.be/0gCMIiJdYPQ</td>
+<td>[Pentland2004]</td><td>Pentland, Alex and Fletcher, Richard and Hasson, Amir, DakNet: Rethinking Connectivity in Developing Nations, Computer, 2004</td>
 </tr>
 <tr>
-<td>[1]</td>
-<td>blabla</td>
+<td>[Kannan2008]</td><td>Kannan, Kfgij and Silveira, Fernando and Taft, Nina, A Disruption-Tolerant Architecture for Secure and Efficient Disaster Response Communications, Kfall.Com, 2008</td>
 </tr>
 <tr>
-<td>[1]</td>
-<td>blabla</td>
+<td>[Seth2006]</td><td>Seth, A. and Kroeker, D. and Zaharia, M. and Guo, S. and Keshav, S., Low-cost communication for rural internet kiosks using mechanical backhaul, MobiCom '06, 2006</td>
 </tr>
 <tr>
-<td>[1]</td>
-<td>blabla</td>
+<td>[Zarafshan-Araki2010]</td><td>Zarafshan-Araki, Mohammad and Chin, Kwan Wu, TrainNet: A transport system for delivering non real-time data, Computer Communications, 2010</td>
+</tr>
+<tr>
+<td>[Juang2002]</td><td>Juang, Philo and Oki, Hidekazu and Wang, Yong and Martonosi, Margaret and {Peh Li-Shiuan}, Peh and Rubenstein, Daniel, Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet, ASPLOS 2002</td>
+</tr>
+<tr>
+<td>[4]</td><td></td>
+</tr>
+<tr>
+<td>[4]</td><td></td>
+</tr>
+<tr>
+<td>[4]</td><td></td>
 </tr>
 </table>
 
+- Wild life [2]
+- Disaster response and Humanitarian Aid [3]
+- DakNet, TrainNet [4,5]
+- Vehicular DTN [6]
+- Unmanned Air/Underwater Systems [7]
+- Ring Road [8]
