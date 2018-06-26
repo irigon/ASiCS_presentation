@@ -18,12 +18,12 @@ figcaption {
 .tg .tg-yw4l{vertical-align:top}
 
 .reveal pre code {
-  font-size: 1.3em;
-  line-height: 1.2;
+  font-size: 1.0em;
+  line-height: 1.0;
 }
 
 .reveal pre {
-  width: 120%;
+  width: 80%;
   margin-left: -10%;
 }
 </style>
