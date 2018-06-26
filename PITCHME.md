@@ -244,3 +244,23 @@ Still to be done
 </table>
 <p style="font-size: 16px">&#9724;</span>: Implemented, &#8862;: Doable, &#9633;: Structural changes needed</p>
 ---
+
+<table class="tg">
+<tr>
+<td>[1]</td>
+<td>blabla</td>
+</tr>
+<tr>
+<td>[1]</td>
+<td>blabla</td>
+</tr>
+<tr>
+<td>[1]</td>
+<td>blabla</td>
+</tr>
+<tr>
+<td>[1]</td>
+<td>blabla</td>
+</tr>
+</table>
+
