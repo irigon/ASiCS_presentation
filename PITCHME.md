@@ -238,9 +238,5 @@ Still to be done
 <th class="tg-baqh">&#8862;</th>
 </tr>
 </table>
-# white: &#9633;
-# kreuz: &#8862;
-# black: &#9724;
-
 <p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
 ---
