@@ -104,7 +104,7 @@ Next: In order to improve DTN adoption we urge to
 ---
 
 
-### How should routing look like?
+### Abstracting a DTN network
 
 <figure>
 <img src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/figures/Scenario-simple.png" alt= "simple" width="281" height="323">
