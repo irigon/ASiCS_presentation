@@ -171,4 +171,76 @@ Routing algorithm performance
 <p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
 ---
 
+Still to be done
 
+<table class="tg">
+<tr>
+<th class="tg-yw4l"></th>
+<th class="tg-yw4l">DTN2</th>
+<th class="tg-yw4l">uPCN</th>
+<th class="tg-yw4l">IBR-DTN</th>
+<th class="tg-yw4l">uION</th>
+<th class="tg-yw4l">uDTN</th>
+<th class="tg-yw4l">JavaDTN</th>
+</tr>
+<tr>
+<th class="tg-yw4l">RR Adaptation</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+</tr>
+<tr>
+<th class="tg-yw4l">RR Parameterization</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+</tr>
+<tr>
+<th class="tg-yw4l">RR Extension</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9724;</th>
+</tr>
+<tr>
+<th class="tg-yw4l">Stochastic Routing</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#9633;</th>
+</tr>
+<tr>
+<th class="tg-yw4l">Probabilistic Routing</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#9724;</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#8862;</th>
+</tr>
+<tr>
+<th class="tg-yw4l">Deterministic Routing</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#9633;</th>
+<th class="tg-baqh">&#8862;</th>
+<th class="tg-baqh">&#8862;</th>
+</tr>
+</table>
+# white: &#9633;
+# kreuz: &#8862;
+# black: &#9724;
+
+<p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
+---
