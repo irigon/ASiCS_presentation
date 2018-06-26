@@ -242,5 +242,5 @@ Still to be done
 <td class="tg-baqh">&#8862;</td>
 </tr>
 </table>
-<p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
+<p style="font-size: 16px">&#9724;</span>: Implemented, &#8862;: Doable, &#9633;: Structural changes needed</p>
 ---
