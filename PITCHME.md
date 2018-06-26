@@ -17,6 +17,7 @@ figcaption {
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 */
+table {font-family:Arial, sans-serif; font-size:18px;}
 li {
   font-size: 26px !important;
 }
