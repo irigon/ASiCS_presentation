@@ -17,12 +17,9 @@ figcaption {
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 
-.reveal pre code {
+.reveal slides {
   font-size: 0.8em;
   line-height: 1.0;
-}
-
-.reveal pre {
   width: 60%;
   margin-left: -10%;
 }
