@@ -40,14 +40,12 @@ Your browser does not support the video tag.
 
 ### DTN - Use Cases examples
 
-@ul[squares]
 - Wild life 
 - Disaster response and Humanitarian Aid
 - DakNet, TrainNet 
 - Vehicular DTN
 - Unmanned Air/Underwater Systems
 - Ring Road 
-@ulend
 
 Note:
   - ZebraNet - Kenia
@@ -59,10 +57,12 @@ Note:
 
 ### Challenges in DTN adoption
 
+@ul[squares]
  - Routing is context bound
  - Use-case depends on context available resources
  - Different contexts &#8594; abstracts &#8594; same problem 
  - Less done towards internetworking
+@ulend
 
 Note: 
 p2: reutilization might needs the same combination
