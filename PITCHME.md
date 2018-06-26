@@ -48,7 +48,7 @@ p3: deep space x ad-hoc mobile networks: latency, routing different -- disruptio
 
 ### DTN - Use Cases examples
 
-- <p1>Wild life (ZebraNet - Kenia)</p1>
+- <paragraph1>Wild life (ZebraNet - Kenia)</paragraph1>
 - Disaster response and Humanitarian Aid
 - DakNet, TramNet (Terrestrial cost effective connectivity)
 - Vehicular DTN
