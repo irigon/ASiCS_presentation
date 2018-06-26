@@ -18,7 +18,7 @@ figcaption {
 .tg .tg-yw4l{vertical-align:top}
 
 li {
-  font-size: 18px !important;
+  font-size: 26px !important;
 }
 
 </style>
