@@ -184,58 +184,58 @@ Still to be done
 <th class="tg-yw4l">JavaDTN</th>
 </tr>
 <tr>
-<th class="tg-yw4l">RR Adaptation</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
+<td class="tg-yw4l">RR Adaptation</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
 </tr>
 <tr>
-<th class="tg-yw4l">RR Parameterization</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
+<td class="tg-yw4l">RR Parameterization</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
 </tr>
 <tr>
-<th class="tg-yw4l">RR Extension</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9724;</th>
+<td class="tg-yw4l">RR Extension</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9724;</td>
 </tr>
 <tr>
-<th class="tg-yw4l">Stochastic Routing</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#9633;</th>
+<td class="tg-yw4l">Stochastic Routing</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9633;</td>
 </tr>
 <tr>
-<th class="tg-yw4l">Probabilistic Routing</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#9724;</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#8862;</th>
+<td class="tg-yw4l">Probabilistic Routing</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#9724;</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#8862;</td>
 </tr>
 <tr>
-<th class="tg-yw4l">Deterministic Routing</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#9633;</th>
-<th class="tg-baqh">&#8862;</th>
-<th class="tg-baqh">&#8862;</th>
+<td class="tg-yw4l">Deterministic Routing</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#9633;</td>
+<td class="tg-baqh">&#8862;</td>
+<td class="tg-baqh">&#8862;</td>
 </tr>
 </table>
 <p style="font-size: 16px">&#9724;</span>: Good, &#8862;: Average, &#9633;: Bad </p>
