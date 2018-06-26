@@ -17,12 +17,7 @@ figcaption {
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 
-.reveal slides {
-  font-size: 0.8em;
-  line-height: 1.0;
-  width: 60%;
-  margin-left: -10%;
-}
+font-size: 0.8em;
 </style>
 
 ## Towards DTN Adaptive routing
@@ -53,7 +48,7 @@ p3: deep space x ad-hoc mobile networks: latency, routing different -- disruptio
 
 ### DTN - Use Cases examples
 
-- Wild life (ZebraNet - Kenia)
+- <p1>Wild life (ZebraNet - Kenia)</p1>
 - Disaster response and Humanitarian Aid
 - DakNet, TramNet (Terrestrial cost effective connectivity)
 - Vehicular DTN
