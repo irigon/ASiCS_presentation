@@ -16,6 +16,16 @@ figcaption {
 .tg th{font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
+
+.reveal pre code {
+  font-size: 1.3em;
+  line-height: 1.2;
+}
+
+.reveal pre {
+  width: 120%;
+  margin-left: -10%;
+}
 </style>
 
 ## Towards DTN Adaptive routing
