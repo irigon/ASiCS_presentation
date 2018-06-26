@@ -33,11 +33,23 @@ Your browser does not support the video tag.
 
 ---
 
+### Some dificulties in DTN adoption
+
+ - Routing is context bound
+ - Use-case depends on context available resources
+ 	- reutilization might needs same combination
+ - Different concepts can (sometimes) be abstracted to the same problem 
+ 	- deep space x ad-hoc mobile networks
+		- latency, routing
+		- disruption
+
+---
+
 ### DTN - Use Cases examples
 
 - Wild life (ZebraNet - Kenia)
 - Disaster response and Humanitarian Aid
-- DakNet (Terrestrial cost effective connectivity)
+- DakNet, TramNet (Terrestrial cost effective connectivity)
 - Vehicular DTN
 - Unmanned Air/Underwater Systems
 - Ring Road (Satellite cost effective connectivity)
@@ -76,6 +88,7 @@ Your browser does not support the video tag.
 </figure>
 
 ---
+
 
 ### How should routing look like?
 
