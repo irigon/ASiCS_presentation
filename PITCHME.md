@@ -37,7 +37,7 @@ Your browser does not support the video tag.
 
  - Routing is context bound
  - Use-case depends on context available resources
- - Different concepts can (sometimes) be abstracted to the same problem 
+ - Different concepts --> abstracts --> same problem 
 Note: 
 p2: reutilization might needs the same combination
 p3: deep space x ad-hoc mobile networks: latency, routing different -- disruption the same
