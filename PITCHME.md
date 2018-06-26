@@ -23,7 +23,7 @@ figcaption {
 }
 
 .reveal pre {
-  width: 80%;
+  width: 60%;
   margin-left: -10%;
 }
 </style>
