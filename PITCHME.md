@@ -17,6 +17,10 @@ figcaption {
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 
+li {
+  font-size: 10px;
+}
+
 </style>
 
 ## Towards DTN Adaptive routing
