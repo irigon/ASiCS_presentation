@@ -40,6 +40,8 @@ li {
   <source src="https://raw.githubusercontent.com/irigon/ASiCS_presentation/master/videos/dtn.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+footnote : "Credits: NASA"
+
 
 ---
 
@@ -244,6 +246,7 @@ Still to be done
 </table>
 <p style="font-size: 16px">&#9724;</span>: Implemented, &#8862;: Doable, &#9633;: Structural changes needed</p>
 ---
+## References
 
 <table class="tg">
 <tr>
